@@ -20,7 +20,7 @@
 ![image](NotePad_new-master/6.png)    
 点击按照修改时间排序    
 ![image](NotePad_new-master/7.png)    
-4.笔记内字体以及背景更改    
+**4.笔记内字体以及背景更改**      
 ![image](NotePad_new-master/8.png)    
 字体改为大号，颜色改为蓝色    
 ![image](NotePad_new-master/9.png)    
