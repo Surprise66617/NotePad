@@ -49,14 +49,14 @@
 ![image](./15.png)  
 # **1.主界面的时间戳**  
 1.布局文件noteslist_item.xml中添加时间戳    
-`
+```
 <TextView
 android:id="@android:id/text2"
 android:layout_width="match_parent"
 android:layout_height="25dp"
 android:singleLine="true"
 android:text="时间:" />
-`  
+```  
 2.在NoteList.java中的PROJECTION中添加COLUMN_NAME_MODIFICATION_DATE字段  
 `
 private static final String[] PROJECTION = new String[] {
